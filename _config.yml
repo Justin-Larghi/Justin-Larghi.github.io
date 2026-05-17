@@ -1,1 +1,6 @@
-theme: minima
+title: My Site
+description: My GitHub Pages site
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
