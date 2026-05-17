@@ -13,14 +13,12 @@ Justin Larghi is an actor from New Jersey with a strong passion for film, televi
 ## 🎭 Acting Work
 
 ### Short Films
- # Production                                               Role              Production Company                     Year
 --------------------------------------------------------------------------------------------------------------------
 You're Gonna Pay for That!                               Birthday Boy      Caroline Sheridan & Michael DeMar      2024
 Shreds of Evidence                                       Student           Caroline Sheridan & Michael DeMar      2023
 Two People Sit at a Diner and Talk About Their Relationship   Man (No Name)    Caroline Sheridan & Michael DeMar      2026
 
 ### Theatre
-# Production                         Role                          Company                                   Year
 ---------------------------------------------------------------------------------------------------------------
 Almost, Maine                      Dave                         Park Ridge High School                   2021
 Legally Blonde                     Emmett Forrest               Park Ridge High School                   2022
