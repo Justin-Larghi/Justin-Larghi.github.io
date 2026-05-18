@@ -14,8 +14,7 @@ Justin Larghi is an actor from New Jersey with a strong passion for film, televi
 
 ### Short Films
 --------------------------------------------------------------------------------------------------------------------
-Two People Sit at a Diner and Talk About Their Relationship  -  Unnamed Man  -  Caroline Sheridan & Michael DeMar  -  2026<img width="1125" height="1600" alt="IMG_5246" src="https://github.com/user-attachments/assets/febe9c31-4807-4c32-96de-eba91d6a7aac" />
-
+Two People Sit at a Diner and Talk About Their Relationship  -  Unnamed Man  -  Caroline Sheridan & Michael DeMar  -  2026
 
 You're Gonna Pay for That!  -  Birthday Boy  -  Caroline Sheridan & Michael DeMar  -  2024
 
@@ -53,5 +52,5 @@ Watch my acting reel here:
 ## 📸 Headshots / Gallery
 
 (Add images by uploading them to your repo and linking like this)
-<img width="1125" height="1600" alt="IMG_5246" src="https://github.com/user-attachments/assets/eeaf6ac8-338a-4661-b165-852d778c3d7d" />
+<img width="562.5" height="800" alt="IMG_5246" src="https://github.com/user-attachments/assets/eeaf6ac8-338a-4661-b165-852d778c3d7d" />
 
