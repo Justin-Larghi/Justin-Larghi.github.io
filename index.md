@@ -14,9 +14,9 @@ Justin Larghi is an actor from New Jersey with a strong passion for film, televi
 
 ### Short Films
 --------------------------------------------------------------------------------------------------------------------
-You're Gonna Pay for That!                               Birthday Boy      Caroline Sheridan & Michael DeMar      2024
-Shreds of Evidence                                       Student           Caroline Sheridan & Michael DeMar      2023
-Two People Sit at a Diner and Talk About Their Relationship   Man (No Name)    Caroline Sheridan & Michael DeMar      2026
+You're Gonna Pay for That!  /  Birthday Boy  /  Caroline Sheridan & Michael DeMar  /  2024
+Shreds of Evidence  /  Student  /  Caroline Sheridan & Michael DeMar  /  2023
+Two People Sit at a Diner and Talk About Their Relationship  /  Man (No Name)  /  Caroline Sheridan & Michael DeMar  /  2026
 
 ### Theatre
 ---------------------------------------------------------------------------------------------------------------
