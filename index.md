@@ -22,15 +22,23 @@ Two People Sit at a Diner and Talk About Their Relationship  /  Man (No Name)  /
 
 ### Theatre
 ---------------------------------------------------------------------------------------------------------------
-Almost, Maine                      Dave                         Park Ridge High School                   2021
-Legally Blonde                     Emmett Forrest               Park Ridge High School                   2022
-Clue                               Wadsworth                    Park Ridge High School                   2022
-The SpongeBob Musical              Patrick Star                 Park Ridge High School                   2023
-She Kills Monsters                 Chuck Biggs                  Park Ridge High School                   2023
-Mamma Mia!                         Father Alexandrios           Park Ridge High School                   2024
-Hamlet                             Laertes                      Park Ridge High School                   2024
-Into the Woods                     Cinderella’s Prince          Park Ridge High School                   2025
-Hair                               Claude Hooper Bukowski       Bergen Stages at Bergen Community College 2026
+Almost, Maine  -  Dave  -  Park Ridge High School  -  2021
+
+Legally Blonde  -  Emmett Forrest  -  Park Ridge High School  -  2022
+
+Clue  -  Wadsworth  -  Park Ridge High School  -  2022
+
+The SpongeBob Musical  -  Patrick Star  -  Park Ridge High School  -  2023
+
+She Kills Monsters  -  Chuck Biggs  -  Park Ridge High School  -  2023
+
+Mamma Mia!  -  Father Alexandrios  -  Park Ridge High School  -  2024
+
+Hamlet  -  Laertes  -  Park Ridge High School  -  2024
+
+Into the Woods  -  Cinderella’s Prince  -  Park Ridge High School  -  2025
+
+Hair  -  Claude Hooper Bukowski  -  Bergen Stages at Bergen Community College  -  2026
 
 ---
 
