@@ -15,19 +15,29 @@ Justin Larghi is an actor from New Jersey with a strong passion for film, televi
 ### Short Films
 --------------------------------------------------------------------------------------------------------------------
 Two People Sit at a Diner and Talk About Their Relationship  -  Unnamed Man  -  Caroline Sheridan & Michael DeMar  -  2026
+
 You're Gonna Pay for That!  -  Birthday Boy  -  Caroline Sheridan & Michael DeMar  -  2024
+
 Shreds of Evidence  -  Student  -  Caroline Sheridan & Michael DeMar  -  2023
 
 ### Theatre
 ---------------------------------------------------------------------------------------------------------------
 Hair  -  Claude Hooper Bukowski  -  Bergen Stages at Bergen Community College  -  2026
+
 Into the Woods  -  Cinderella’s Prince  -  Park Ridge High School  -  2025
+
 Hamlet  -  Laertes  -  Park Ridge High School  -  2024
+
 Mamma Mia!  -  Father Alexandrios  -  Park Ridge High School  -  2024
+
 She Kills Monsters  -  Chuck Biggs  -  Park Ridge High School  -  2023
+
 The SpongeBob Musical  -  Patrick Star  -  Park Ridge High School  -  2023
+
 Clue  -  Wadsworth  -  Park Ridge High School  -  2022
+
 Legally Blonde  -  Emmett Forrest  -  Park Ridge High School  -  2022
+
 Almost, Maine  -  Dave  -  Park Ridge High School  -  2021
 
 ---
