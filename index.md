@@ -14,31 +14,32 @@ Justin Larghi is an actor from New Jersey with a strong passion for film, televi
 
 ### Short Films
 --------------------------------------------------------------------------------------------------------------------
+Two People Sit at a Diner and Talk About Their Relationship  -  Unnamed Man  -  Caroline Sheridan & Michael DeMar  -  2026<img width="1125" height="1600" alt="IMG_5246" src="https://github.com/user-attachments/assets/febe9c31-4807-4c32-96de-eba91d6a7aac" />
+
+
 You're Gonna Pay for That!  -  Birthday Boy  -  Caroline Sheridan & Michael DeMar  -  2024
 
 Shreds of Evidence  -  Student  -  Caroline Sheridan & Michael DeMar  -  2023
 
-Two People Sit at a Diner and Talk About Their Relationship  -  Unnamed Man  -  Caroline Sheridan & Michael DeMar  -  2026
-
 ### Theatre
 ---------------------------------------------------------------------------------------------------------------
-Almost, Maine  -  Dave  -  Park Ridge High School  -  2021
-
-Legally Blonde  -  Emmett Forrest  -  Park Ridge High School  -  2022
-
-Clue  -  Wadsworth  -  Park Ridge High School  -  2022
-
-The SpongeBob Musical  -  Patrick Star  -  Park Ridge High School  -  2023
-
-She Kills Monsters  -  Chuck Biggs  -  Park Ridge High School  -  2023
-
-Mamma Mia!  -  Father Alexandrios  -  Park Ridge High School  -  2024
-
-Hamlet  -  Laertes  -  Park Ridge High School  -  2024
+Hair  -  Claude Hooper Bukowski  -  Bergen Stages at Bergen Community College  -  2026
 
 Into the Woods  -  Cinderella’s Prince  -  Park Ridge High School  -  2025
 
-Hair  -  Claude Hooper Bukowski  -  Bergen Stages at Bergen Community College  -  2026
+Hamlet  -  Laertes  -  Park Ridge High School  -  2024
+
+Mamma Mia!  -  Father Alexandrios  -  Park Ridge High School  -  2024
+
+She Kills Monsters  -  Chuck Biggs  -  Park Ridge High School  -  2023
+
+The SpongeBob Musical  -  Patrick Star  -  Park Ridge High School  -  2023
+
+Clue  -  Wadsworth  -  Park Ridge High School  -  2022
+
+Legally Blonde  -  Emmett Forrest  -  Park Ridge High School  -  2022
+
+Almost, Maine  -  Dave  -  Park Ridge High School  -  2021
 
 ---
 
@@ -52,6 +53,5 @@ Watch my acting reel here:
 ## 📸 Headshots / Gallery
 
 (Add images by uploading them to your repo and linking like this)
+<img width="1125" height="1600" alt="IMG_5246" src="https://github.com/user-attachments/assets/eeaf6ac8-338a-4661-b165-852d778c3d7d" />
 
-```md
-![Headshot](headshot.jpg)
